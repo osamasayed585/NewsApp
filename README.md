@@ -1,5 +1,6 @@
 # NewsApp
-## NewsApp is a modern news android application which features virtually ALL recent and recommended android development tech stack and tools used in developing a perfomant, beautiful application.
+#### NewsApp is a modern news android application which features virtually ALL recent and recommended android development tech stack and tools used in developing a perfomant, beautiful application.
+
 ## FEATURES 
 #### - Kotlin
 #### - MVVM 

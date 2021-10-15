@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_places_api_key">eca0ac9327fe476aa2c44d30baefb5b5</string>
+</resources>

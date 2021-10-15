@@ -1,5 +1,16 @@
-# NewsApp
-#### NewsApp is a modern news android application which features virtually ALL recent and recommended android development tech stack and tools used in developing a perfomant, beautiful application.
+<h1 align="center">NewsApp  <img align="center" width ='40px' height='40px' src="https://user-images.githubusercontent.com/68209547/137553243-5053985e-2f3b-4b41-b0b3-4a8a66fda3d4.png"> </h1>
+
+
+<p align="center">
+  NewsApp is a modern news android application which features virtually ALL recent and recommended android development tech stack and tools used in developing a perfomant, beautiful application.
+</p>
+
+<p align="center">
+  <a href="https://github.com/osamasayed151"><img alt="Github Profile" src="https://badges.aleen42.com/src/github.svg"/></a> 
+  <a href="https://twitter.com/osamasayed585"><img alt="Twitter Profile" src="https://badges.aleen42.com/src/twitter.svg"/></a> 
+</p>
+
+
 
 ## FEATURES 
 #### - Kotlin
@@ -11,6 +22,7 @@
 #### - Pagination
 #### - Glide
 #### - Search
+And lots more...
 
 ## NOTE
 
